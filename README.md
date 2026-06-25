@@ -81,28 +81,6 @@ Result:
 
 This confirms that the board layout is fully routed and passes the KiCad DRC check.
 
-## Screenshots
-
-### Schematic Overview
-
-![Schematic Overview](Screenshots/kicad_schematic_overview.png)
-
-### PCB Layout Overview
-
-![PCB Layout Overview](Screenshots/kicad_pcb_layout_overview.png)
-
-### Clean DRC Result
-
-![DRC Result](Screenshots/kicad_drc_clean_result.png)
-
-### 3D Board View
-
-![3D Board View](Screenshots/kicad_3d_board_view.png)
-
-### Gerber Viewer Verification
-
-![Gerber Viewer](Screenshots/kicad_gerber_viewer_verification.png)
-
 ## Fabrication Output
 
 The `gerbers/` folder contains the exported Gerber and drill files required for PCB fabrication.
